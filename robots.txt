@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://equuquiew.cinlogic.com/sitemap.xml
